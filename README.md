@@ -26,3 +26,7 @@ Step 3:  Apply filtering conditions using the .loc method:
    - Select columns 'age' and 'balance' where age is less than or equal to 30.  
 Step 4:  Display the filtered results.  
 Step 5:  Save or export the filtered data if needed.
+
+
+
+
